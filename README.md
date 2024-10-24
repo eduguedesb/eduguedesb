@@ -5,7 +5,9 @@ Como Analista de Suporte, ajudo a garantir que sistemas e infraestruturas funcio
 
 Trabalho com desenvolvimento de soluções robustas com JavaScript, Node.js, React, HTML/CSS, PHP, Python e outras tecnologias.
 Presto suporte técnico, faço análise de problemas e implemento melhorias.
-Estou Sempre em busca de novos desafios:
+
+Estou Sempre em busca de novos desafios.
+
 Aqui no GitHub, compartilho projetos que refletem meu compromisso com a inovação e a qualidade. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 
 Se você está interessado em trabalhar comigo ou quer trocar ideias sobre tecnologia, fique à vontade para me contactar!
