@@ -9,6 +9,7 @@ Presto suporte técnico, faço análise de problemas e implemento melhorias.
 Estou Sempre em busca de novos desafios.
 
 Aqui no GitHub, compartilho projetos que refletem meu compromisso com a inovação e a qualidade. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
+Vários projetos postados aqui eu fiz para uso próprio, com o intuito de facilitar algumas tarefas que precisava realizar em determinado momento e, também, para estudo.
 
 Se você está interessado em trabalhar comigo ou quer trocar ideias sobre tecnologia, fique à vontade para me contactar!
   
